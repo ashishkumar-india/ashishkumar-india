@@ -8,14 +8,14 @@ Currently, I am looking for entry-level roles or internships in AI / ML / Data S
 
 📍 India
 
-About Me
+### About Me
 
 I have hands-on experience through academic and self-driven projects where I designed, built, and tested AI-powered and web-based applications.
 My projects reflect a balance of theory + implementation, and I continuously try to improve code quality and system design.
 
 I believe in learning by building and improving systems step by step.
 
-# Technical Skills
+## Technical Skills
 
 Programming Languages
 Python, JavaScript, C/C++, PHP
@@ -38,9 +38,9 @@ Selenium, BeautifulSoup
 Tools & Platforms
 Git, GitHub, VS Code, AWS (Basics), Docker (Familiar)
 
-## Projects
+# Projects
 
-# Hospital Management System
+## Hospital Management System
 
 Tech: Python, Django, MySQL
 A web-based hospital management system for handling patient registration, appointments, and medical records.
@@ -48,35 +48,35 @@ Role-based access control was implemented along with database normalization (3NF
 
 🔗 https://github.com/ashishkumar-india/doctor
 
-# Medical Handwriting Analysis
+## Medical Handwriting Analysis
 
 Tech: Python, TensorFlow, Keras, NumPy
 A deep learning-based system to recognize handwritten doctor prescriptions and convert them into digital text, helping in healthcare record digitization.
 
 🔗 https://github.com/ashishkumar-india/Medical-HandWriting-Analysis
 
-# Education Management System
+## Education Management System
 
 Tech: React.js, Node.js, MySQL
 A full-stack web application for managing student records, attendance, and examinations with REST API-based backend communication and authentication.
 
 🔗 https://github.com/ashishkumar-india/Education-Management-System
 
-# Crossword Puzzle Game
+## Crossword Puzzle Game
 
 Tech: PHP, MySQL, JavaScript
 An interactive crossword puzzle platform with user authentication, puzzle creation, and gameplay tracking features.
 
 🔗 https://github.com/ashishkumar-india/CrossWord
 
-# Web Automation
+## Web Automation
 
 Tech: Python, Selenium, BeautifulSoup
 Automation scripts to handle repetitive browser tasks and extract structured data through web scraping.
 
 🔗 https://github.com/ashishkumar-india/WebAutomation
 
-# E-Commerce Website
+## E-Commerce Website
 
 Tech: HTML, CSS, JavaScript
 A basic e-commerce web application focused on UI, product listing, and frontend interactions.
