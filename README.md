@@ -1,93 +1,148 @@
-Hi, I'm Ashish Kumar,
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Kumar;MSc+Artificial+Intelligence+Student;AI+%7C+ML+%7C+Deep+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
-I am an MSc Artificial Intelligence student with a strong interest in building practical AI and software systems.
-My work mainly focuses on Machine Learning, Deep Learning, NLP, Computer Vision, along with full-stack and automation projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishkumar-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ashishkumardev.india@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/ashishkumar-india"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-I enjoy working on real-world problems, especially in areas like healthcare, education, and productivity tools.
-Currently, I am looking for entry-level roles or internships in AI / ML / Data Science / Software Development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishkumar-india&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+</p>
 
-📍 India
+---
 
-### About Me
+```python
+class AshishKumar:
+    def __init__(self):
+        self.name = "Ashish Kumar"
+        self.role = "MSc Artificial Intelligence Student"
+        self.location = "India 🇮🇳"
+        self.interests = ["AI/ML", "Deep Learning", "Computer Vision", "NLP", "Full Stack Dev"]
+        self.looking_for = "Entry-level roles or internships in AI/ML/Data Science"
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something amazing together.")
 
-I have hands-on experience through academic and self-driven projects where I designed, built, and tested AI-powered and web-based applications.
-My projects reflect a balance of theory + implementation, and I continuously try to improve code quality and system design.
+me = AshishKumar()
+me.say_hi()
+```
 
-I believe in learning by building and improving systems step by step.
+---
 
-## Technical Skills
+## 🚀 About Me
 
-Programming Languages
-Python, JavaScript, C/C++, PHP
+- 🎓 **MSc Artificial Intelligence** student passionate about building practical AI systems
+- 💡 Focused on **Machine Learning, Deep Learning, NLP, and Computer Vision**
+- 🌱 Currently exploring **Advanced Computer Vision** and **LLMs**
+- 🔭 Working on real-world projects in **healthcare, education, and productivity tools**
+- 💬 Ask me about **Python, TensorFlow, PyTorch, React, Django**
+- 📫 Reach me at: **ashishkumardev.india@gmail.com**
 
-Artificial Intelligence & ML
-Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+---
 
-Frameworks & Libraries
-TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
+## 🛠️ Tech Stack
 
-Web Development
-React.js, Node.js, Express.js, Django, HTML, CSS, Bootstrap
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-Databases
-MySQL, PostgreSQL, MongoDB
+<h3 align="center">AI / ML / DL</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-Automation & Scraping
-Selenium, BeautifulSoup
+<h3 align="center">Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-Tools & Platforms
-Git, GitHub, VS Code, AWS (Basics), Docker (Familiar)
+<h3 align="center">Databases & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-# Projects
+---
 
-## Hospital Management System
+## 📊 GitHub Stats
 
-Tech: Python, Django, MySQL
-A web-based hospital management system for handling patient registration, appointments, and medical records.
-Role-based access control was implemented along with database normalization (3NF) for better performance.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-india&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar-india&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" />
+</p>
 
-🔗 https://github.com/ashishkumar-india/doctor
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-india&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="40%" />
+</p>
 
-## Medical Handwriting Analysis
+---
 
-Tech: Python, TensorFlow, Keras, NumPy
-A deep learning-based system to recognize handwritten doctor prescriptions and convert them into digital text, helping in healthcare record digitization.
+## 🏆 GitHub Trophies
 
-🔗 https://github.com/ashishkumar-india/Medical-HandWriting-Analysis
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-india&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</p>
 
-## Education Management System
+---
 
-Tech: React.js, Node.js, MySQL
-A full-stack web application for managing student records, attendance, and examinations with REST API-based backend communication and authentication.
+## 🔥 Featured Projects
 
-🔗 https://github.com/ashishkumar-india/Education-Management-System
+<p align="center">
+  <a href="https://github.com/ashishkumar-india/objectcount">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-india&repo=objectcount&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  </a>
+  <a href="https://github.com/ashishkumar-india/Medical-HandWriting-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-india&repo=Medical-HandWriting-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  </a>
+</p>
 
-## Crossword Puzzle Game
+<p align="center">
+  <a href="https://github.com/ashishkumar-india/doctor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-india&repo=doctor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  </a>
+  <a href="https://github.com/ashishkumar-india/Education-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-india&repo=Education-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  </a>
+</p>
 
-Tech: PHP, MySQL, JavaScript
-An interactive crossword puzzle platform with user authentication, puzzle creation, and gameplay tracking features.
+---
 
-🔗 https://github.com/ashishkumar-india/CrossWord
+## 📈 Contribution Graph
 
-## Web Automation
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-india&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
-Tech: Python, Selenium, BeautifulSoup
-Automation scripts to handle repetitive browser tasks and extract structured data through web scraping.
+---
 
-🔗 https://github.com/ashishkumar-india/WebAutomation
+<h3 align="center">🤝 Let's Connect & Build Something Amazing!</h3>
 
-## E-Commerce Website
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishkumar-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ashishkumardev.india@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/ashishkumar-india"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-Tech: HTML, CSS, JavaScript
-A basic e-commerce web application focused on UI, product listing, and frontend interactions.
-
-🔗 https://github.com/ashishkumar-india/ECommerce
-
-# Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/ashishkumar-ai
-
-Email: ashishkumardev.india@gmail.com
-
-GitHub: https://github.com/ashishkumar-india
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
+</p>
