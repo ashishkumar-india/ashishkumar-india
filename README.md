@@ -84,30 +84,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-india&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar-india&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-india&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="40%" />
-</p>
-
-## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ashishkumar-india/doctor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-india&repo=doctor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  </a>
-  <a href="https://github.com/ashishkumar-india/Education-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-india&repo=Education-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  </a>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
