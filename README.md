@@ -32,18 +32,18 @@ me.say_hi()
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **MSc Artificial Intelligence** student passionate about building practical AI systems
-- 💡 Focused on **Machine Learning, Deep Learning, NLP, and Computer Vision**
-- 🌱 Currently exploring **Advanced Computer Vision** and **LLMs**
-- 🔭 Working on real-world projects in **healthcare, education, and productivity tools**
-- 💬 Ask me about **Python, TensorFlow, PyTorch, React, Django**
-- 📫 Reach me at: **ashishkumardev.india@gmail.com**
+- **MSc Artificial Intelligence** student passionate about building practical AI systems
+- Focused on **Machine Learning, Deep Learning, NLP, and Computer Vision**
+- Currently exploring **Advanced Computer Vision** and **LLMs**
+- Working on real-world projects in **healthcare, education, and productivity tools**
+- Ask me about **Python, TensorFlow, PyTorch, React, Django**
+- Reach me at: **ashishkumardev.india@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <h3 align="center">Languages</h3>
 <p align="center">
