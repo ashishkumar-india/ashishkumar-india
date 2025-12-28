@@ -84,14 +84,6 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-india&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 <h3 align="center">🤝 Let's Connect & Build Something Amazing!</h3>
 
 <p align="center">
