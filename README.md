@@ -14,24 +14,6 @@
 
 ---
 
-```python
-class AshishKumar:
-    def __init__(self):
-        self.name = "Ashish Kumar"
-        self.role = "MSc Artificial Intelligence Student"
-        self.location = "India 🇮🇳"
-        self.interests = ["AI/ML", "Deep Learning", "Computer Vision", "NLP", "Full Stack Dev"]
-        self.looking_for = "Entry-level roles or internships in AI/ML/Data Science"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together.")
-
-me = AshishKumar()
-me.say_hi()
-```
-
----
-
 ## About Me
 
 - **MSc Artificial Intelligence** student passionate about building practical AI systems
