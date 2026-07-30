@@ -78,26 +78,4 @@ class AshishKumar:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-india&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-india&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170"/>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-india&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
