@@ -84,9 +84,9 @@ class AshishKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-india&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&ring_color=A78BFA" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-india&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA" height="170"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashishkumar-india&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
+<img src="https://streak-stats.demolab.com?user=ashishkumar-india&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
 
 <br/>
 
@@ -99,7 +99,7 @@ class AshishKumar:
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-india&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-india&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8"/>
 </div>
 
 ---
