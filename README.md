@@ -1,10 +1,10 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashish%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=MSc+Artificial+Intelligence+%E2%9C%94;Building+intelligent+systems+%F0%9F%A4%96;React+%7C+Node.js+%7C+PHP+%7C+Python;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;React+%7C+Node.js+%7C+PHP+%7C+Python;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,7 +34,6 @@
 
 ```python
 class AshishKumar:
-    degree    = "MSc Artificial Intelligence ✅"
     role      = "AI / ML Engineer"
     stack     = ["Python", "React", "Node.js", "PHP"]
     ai_focus  = ["LLMs", "Computer Vision", "NLP"]
