@@ -84,22 +84,18 @@ class AshishKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-india&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-india&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA" height="170"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=ashishkumar-india&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-india&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-india&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170"/>
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-india&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-india&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
